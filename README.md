@@ -22,7 +22,7 @@ The application utilizes the `api.qrserver.com` API to generate QR Codes based o
 
 ## Example
 
-![QR Code Generator Example](example.png)
+![QR Code Generator Example](qrcodegen.png)
 
 ## Contributing
 
